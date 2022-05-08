@@ -1,0 +1,41 @@
+.summery-block {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.summery-block__both {
+  background-color: aliceblue;
+  width: 50%;
+}
+
+.summery-both-label {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+.summery-both-value {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 3px;
+}
+.income-value {
+  color: green;
+}
+.expense-value {
+  color: red;
+}
+
+.expense-summery-layout {
+  background-color: #eeeeee;
+}
+
+.balance-label {
+  margin-bottom: 0;
+  font-style: italic;
+}
+.balance-amount-label {
+  margin-top: 0;
+  font-size: 3rem;
+}

@@ -1,0 +1,23 @@
+.expense-template {
+  display: flex;
+  margin: 1rem auto 0 auto;
+  width: 95%;
+}
+
+.expense-template__inner {
+  background-color: white;
+  width: 98%;
+}
+
+.expense-template__content {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+.expense-template__type {
+  /* background-color: green; */
+  width: 2%;
+  height: 60px;
+}

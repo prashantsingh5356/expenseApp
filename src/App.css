@@ -1,0 +1,9 @@
+body {
+  background-color: #eeeeee;
+}
+
+.expense-layout {
+  background-color: white;
+  width: 40%;
+  margin: 0 auto;
+}
